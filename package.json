@@ -1,6 +1,5 @@
 {
   "name": "calculadora-react",
-  "homepage": "https://eliasmorelli97.github.io/calculadora-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
