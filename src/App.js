@@ -52,7 +52,7 @@ function App() {
 
   return (
     <div className='App'>
-      <BrowserRouter basename='/proyecto_react'>
+      <BrowserRouter basename='/calculadora-react'>
         <div className='calculator-container'>
           <Screen input={input} />
           <div className='row'>
